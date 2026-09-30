@@ -16,7 +16,7 @@ PROJECT METADATA:
 VIDEO RECORDING LINKS:
 ----------------------
 * Primary Demo URL (YouTube / Loom) : [Insert Video URL Here - e.g., https://youtu.be/example or https://loom.com/share/example]
-* Backup Demo URL (Google Drive)     : [Insert Google Drive / OneDrive Share Link Here]
+* Backup Demo URL (Google Drive)     : [https://drive.google.com/file/d/1nb3-KZSPiNqp4uAUdPBjgsUcPxhgLbiG/view?usp=drive_link]
 * Recording Date                    : 2026-09-29
 * Total Video Duration              : 08:45 (MM:SS)
 * Video Resolution                  : 1080p Full HD (60 FPS)
